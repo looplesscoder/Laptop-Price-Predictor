@@ -19,8 +19,6 @@ conda-p create venv python==3.10 -y
 1. Integrated Development Environment- JupyterNotebook , Pycharm 
 2. Programming Language- Python
 
-## Live Demo <br /> 
-applink - ()
 
 ## About the Project 
 1. Dataset used- (https://drive.google.com/file/d/1tDCCxB7qZNjVKcltWzYb7QAFtJV17saW/view?usp=share_link) <br />
