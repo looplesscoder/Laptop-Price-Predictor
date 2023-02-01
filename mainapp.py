@@ -4,8 +4,8 @@ import numpy as np
 
 
 #import model
-pipe= pickle.load(open('pipe.pckl' ,'rb'))
-df= pickle.load(open('df.pckl', 'rb'))
+pipe= pickle.load(open('pipe.pkl' ,'rb'))
+df= pickle.load(open('df.pkl', 'rb'))
 
 st.title("Laptop-price-predictor")
 
@@ -28,7 +28,7 @@ touchscreen= st.selectbox('TouchScreen',['No','Yes'])
 ips= st.selectbox('IPS', ['No', 'Yes'])
 
 # screen size
-ppi = st.number_input('Screen Size')
+screen_size = st.number_input('Screen Size')
 
 # resolution
 resolution = st.selectbox('Screen Resolution',['1920x1080','1366x768','1600x900','3840x2160','3200x1800','2880x1800','2560x1600','2560x1440','2304x1440'])
