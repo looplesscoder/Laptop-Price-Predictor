@@ -21,7 +21,7 @@ conda-p create venv python==3.10 -y
 
 
 ## About the Project 
-1. Dataset used- (https://drive.google.com/file/d/1tDCCxB7qZNjVKcltWzYb7QAFtJV17saW/view?usp=share_link) <br />
+1. [Dataset used](https://drive.google.com/file/d/1tDCCxB7qZNjVKcltWzYb7QAFtJV17saW/view?usp=share_link) <br />
 2. Models Used <br />
 - Linear Regression
 - Decision Tree Regressor 
